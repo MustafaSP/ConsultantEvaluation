@@ -10,8 +10,14 @@
 <p class="has-line-data" data-line-start="18" data-line-end="19">Uygulama toplanan verileri görselleştirmek için matplotlib tabanlı script içerir.</p>
 <h2 class="code-line" data-line-start=21 data-line-end=22 ><a id="Kurulum_21"></a>Kurulum</h2>
 <p class="has-line-data" data-line-start="23" data-line-end="24">Kullanılan python sürümü 3.10.10</p>
-<pre><code class="has-line-data" data-line-start="26" data-line-end="28" class="language-sh">pip install -r requirements.txt
-</code></pre>
+<pre>
+  <code class="has-line-data" data-line-start="26" data-line-end="28" class="language-sh">pip install -r requirements.txt
+  </code>
+</pre>
+
+<p>Modeli bu <a href="https://drive.google.com/file/d/14-U92OQgwAdIAqoRNkKIxIeP-nXSCvLM/view?usp=sharing"> linkten </a> indirerek NlpPocess içerisine koymalısınız</p>
+
+
 <h2 class="code-line" data-line-start=29 data-line-end=30 ><a id="altrma_29"></a>Çalıştırma</h2>
 <h4 class="code-line" data-line-start=31 data-line-end=32 ><a id="Yorum_sitesini_amak_iin_31"></a>Yorum sitesini açmak için</h4>
 <pre><code class="has-line-data" data-line-start="34" data-line-end="37" class="language-sh"><span class="hljs-built_in">cd</span> CommentsGather/Flask
