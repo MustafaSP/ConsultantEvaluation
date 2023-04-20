@@ -60,7 +60,7 @@ python3 view.py
 <h2 class="code-line" data-line-start=64 data-line-end=65 ><a id="Gelitirilebilecek_zellikler_64"></a>Geliştirilebilecek Özellikler</h2>
 <p class="has-line-data" data-line-start="65" data-line-end="66">Zamanla geliştirilebilecek birkaç konu aşağıda bulunmaktadır.</p>
 <blockquote>
-<p class="has-line-data" data-line-start="67" data-line-end="68">Zaman kısıtından dolayı Train ederken düşük batch_size ve epochs kullanılarak eğitim yaptım. Daha fazla batch_size ve epochs kullanılarak daha iyi bir model elde edilebilir.</p>
+<p class="has-line-data" data-line-start="67" data-line-end="68">Train ederken düşük batch_size ve epochs kullanılarak eğitim yaptım. Daha fazla batch_size ve epochs kullanılarak daha iyi bir model elde edilebilir.</p>
 </blockquote>
 <blockquote>
 <p class="has-line-data" data-line-start="69" data-line-end="70">Metin temizleme geliştirilebilir.</p>
