@@ -32,7 +32,7 @@ def comment():
 
     newcomment = CommentAdder(name=name, surname=surname, mail=mail, consultant=consultant,
                                   commentType=commentType, commentText=commentText, orderDate=orderDate,
-                                  uid=uid,dbPath="../../DB/sqlite3.db")
+                                  uid=uid,dbPath="../../DB/Remax.db")
     newcomment.commentAppend()
     del newcomment
 

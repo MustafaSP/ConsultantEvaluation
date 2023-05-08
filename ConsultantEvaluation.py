@@ -161,7 +161,7 @@ def PrepareToProcess(consultantComments):
 
 if __name__ == '__main__':
     csvPath = "comment.csv"
-    dbPath = "DB/sqlite3.db"
+    dbPath = "DB/Remax.db"
     consultantWeekDays = Dicts.weekDays.copy()
     dataDict = {}
 
